@@ -1,3 +1,7 @@
+# basic machine learning model to help predict a male from a female
+# using height, width, and shoe size.
+# model is trained using a decision tree.
+
 # dependencies install: sudo pip install -U numpy scipy scikit-learn
 from sklearn import tree
 
