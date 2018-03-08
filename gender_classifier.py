@@ -1,3 +1,4 @@
+# dependencies install: sudo pip install -U numpy scipy scikit-learn
 from sklearn import tree
 
 # [height, width, shoe size]
