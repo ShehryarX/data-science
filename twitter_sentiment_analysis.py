@@ -17,10 +17,10 @@ import tweepy
 from textblob import TextBlob
 
 # twitter api credentials
-consumer_key = '7FNbQZMAfJn95e9ECUGe36VEr'
-consumer_secret = 'Nt8g3bOyFq2Dmp4UJaSln4zDo4HibWFWaEmlhawBVSvw8jNm3L'
-access_token = '710959746292051970-62SvW71zXacvPW0VERAybNuJEuxtrIY'
-access_token_secret = 'rgXau3m7NXFxKJBQOfWBhShXhNabMNUDKd9rQGXNKkes7'
+consumer_key = ':)'
+consumer_secret = ':)'
+access_token = ':)'
+access_token_secret = ':)'
 
 # auth with Twitter
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
