@@ -12,7 +12,6 @@
 # dependencies install:
 # sudo pip install tweepy textblob, can use .tags, .polarity, .words
 # python -m textblob.download_corpora
-
 import tweepy
 from textblob import TextBlob
 
